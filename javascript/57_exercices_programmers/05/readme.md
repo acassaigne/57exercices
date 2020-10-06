@@ -10,7 +10,7 @@ cd mon_projet
 npm init
 ```
 
-installation de jest (unitest javascript)
+## installation de jest (unitest javascript)
 
 ```bash
 npm install --save-dev jest
@@ -26,8 +26,8 @@ A ajouter dans le fichier `package.json`
   },
 ```
 
-
 Pour lancer les tests :
+
 ```bash
 npm run test
 ```
