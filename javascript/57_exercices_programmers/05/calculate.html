@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calculate !</title>
+  <script src="https://unpkg.com/vue"></script>
+</head>
+<body>
+  <div id="appCalc">
+    <h2>Calculate</h2>
+    <input v-model="operande1">
+    <input v-model="operande2">
+    <button v-on:click="compute">Calculer</button>
+    {{result}}
+  </div>
+
+
+  <script>
+    var appCalc = new Vue({
+        el: '#appCalc',
+        data: {
+            operande1 : "",
+            operande2 : "",
+            result: ''
+        },
+        methods: {
+            compute: function () {
+                this.result = `${this.operande1} + ${this.operande2} = not yet implemented`
+        }
+  }
+})
+</script>
+</body>
+</html>

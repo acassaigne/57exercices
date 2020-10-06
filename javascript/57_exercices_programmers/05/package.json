@@ -1,0 +1,16 @@
+{
+  "name": "05",
+  "version": "1.0.0",
+  "description": "Simple Math",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest  --watch"
+  },
+  "author": "Anthony & François",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "readline-sync": "^1.4.10",
+    "stdio": "^0.2.7"
+  }
+}
