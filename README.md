@@ -4,3 +4,6 @@ Kata base on the good pragprog book [Exercises for Programmers](https://pragprog
 
 These exercices were developped with @tbenett (https://github.com/tbenett) 
 using a TDD approach with behaviour first.
+
+Test ! :)
+
