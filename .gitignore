@@ -2,3 +2,4 @@
 .flooignore
 .idea
 lib
+node_modules
