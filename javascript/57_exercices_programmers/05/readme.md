@@ -45,8 +45,6 @@ Resource https://medium.com/@moses.gunesch/running-jest-in-vs-code-2b636281b6ef
 Pour avoir un mini-serveur web permettant d'avoir l'application de type Single Page Application fonctionnelle, 
 il convient de lancer cette commande python.
 
-Il y a probablement l'équivalent en `nodejs`.
-
 ```bash
 python3 -m http.server
 ```
@@ -58,6 +56,12 @@ Pour l'installation :
 ```bash
 npm install --save-dev http-server
 ```
+
+Pour le lancer : 
+```bash
+./node_modules/http-server/bin/http-server
+```
+
 ## Doc Jest
 
 https://jestjs.io/docs/en/getting-started
