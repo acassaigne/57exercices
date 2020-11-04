@@ -1,7 +1,9 @@
 # TODO 
 
-Implementer le programme principal en ligne de commande
+DONE Implementer le programme principal en ligne de commande
+
 implémenter le web service avec le endpoint 
+
 implémenter une interface GUI en javascript : vue.js, angular... appelant le web service
 
 
