@@ -51,6 +51,13 @@ Il y a probablement l'équivalent en `nodejs`.
 python3 -m http.server
 ```
 
+## Autre solution pour démarer un serveur http via nodejs
+
+Pour l'installation :
+
+```bash
+npm install --save-dev http-server
+```
 ## Doc Jest
 
 https://jestjs.io/docs/en/getting-started
