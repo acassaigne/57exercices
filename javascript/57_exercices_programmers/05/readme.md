@@ -59,7 +59,7 @@ npm install --save-dev http-server
 
 Pour le lancer : 
 ```bash
-./node_modules/http-server/bin/http-server
+node ./node_modules/http-server/bin/http-server
 ```
 
 ## Doc Jest
