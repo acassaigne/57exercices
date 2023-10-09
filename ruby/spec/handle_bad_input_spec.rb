@@ -6,7 +6,6 @@ describe 'exercise 57' do
 
     it 'return on investment ' do
 
-
       sut = return_on_investment(4)
 
       expect(sut).to eq(18)
