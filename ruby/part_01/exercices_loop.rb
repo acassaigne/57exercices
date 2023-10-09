@@ -1,3 +1,7 @@
+def return_on_investment(rate)
+  72 / rate
+end
+
 def check_number(input)
   could_be_a_number = Integer(input) rescue nil
   if could_be_a_number
